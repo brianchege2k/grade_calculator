@@ -1,0 +1,53 @@
+h2{
+    margin-left: 20px;
+    margin-top:20px;
+
+}
+form{
+    border: 2px solid burlywood;
+    border-radius: 10px;
+}
+
+.form-group{
+    input{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        justify-content: center;
+        max-width:200px;
+        margin-left: 20px;
+    }
+    label{
+        margin-left: 20px;
+    }
+    #submit{
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+}
+
+.container{
+    margin-top: 20px;
+}
+
+.grade-output-a{
+    font-size: xx-large;
+    color: chartreuse;
+}
+.grade-output-b{
+    font-size:x-large;
+    color: green;
+}
+.grade-output-c{
+    font-size:larger;
+    color: yellow;
+}
+.grade-output-d{
+    font-size:large;
+    color:brown
+}
+.grade-output-e{
+    font-size:smaller;
+    color: red;
+}
+
+
